@@ -57,8 +57,8 @@
   <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/marouaneXan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <p align = "center">
-    ⭐️ From <a href="https://github.com/zumrudu-anka/">zumrudu-anka</a>
+    ⭐️ From <a href="https://github.com/marouaneXan/">Marouane Zahaoui</a>
 </p>
