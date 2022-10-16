@@ -1,65 +1,92 @@
-<h3 align="center">Hello there, I'm Marouane 👋</h3>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/marouanezahaoui/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/itsmemarouane/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Marouane Zahaoui, Computer Engineer & Software Developer from Morocco
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  🔬 I’m currently working on React
-  <br>
-  📚 I’m currently learning how to build Fullstack Website with React & express
-  <br>
-  💬 Ask me about <a href="https://github.com/marouaneXan/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto:marouanezahaoui835@gmail.com">marouanezahaoui835@gmail.com</a>
+### Hi there 👋, I'm [Aman](https://github.com/aman-atg) 👨‍💻
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aman-atg/">
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://t.me/amanatg0">
+  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<a href="https://twitter.com/aman_atg">
+  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="mailto:aman.atg001@gmail.com">
+  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
+<br />
+<br/>
+
+<p>
+A Full Stack JavaScript Developer 🚀 from India. I consider myself as a skilled JS Developer with good debugging skills.
+<br/>
+Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+<br/>  
+Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
+<br/>
+Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
 
-<hr>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  
+### ✨ Quick Facts
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
+- 🌱 I’m currently learning React-Native and Animation
+- 🤔 I’m looking for help for my future MERN projects
+- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- ⚡️ Fun-Fact: I sleep at 6am 🙃
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
+- 📫 How to reach me: aman.atg001@gmail.com
+- 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
 
-<p align="center">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-</p>
+### 🛠️ Languages and Tools:
 
-<hr>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-<a href="https://github.com/marouaneXan/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=marouaneXan&show_icons=true"></a>
 
-<hr>
+### 👣 Next Steps
 
-<h2 align="center">Repositories</h2>
+_Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/marouaneXan/json_generator_tree" title="Json Generator Tree"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
-  <a align="right" href="https://github.com/marouaneXan/github_finder" title="Github Api Search"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/NeedlemanWunschWithOpenMP" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschWithOpenMP&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/Artificial_Neural_Networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Artificial_Neural_Networks&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Minesweeper&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
-</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/marouaneXan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+❤️ Support me : (Give me your money 💰) So that I can upgrade my slow Desktop 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)](https://paypal.me/amanatg)
 
-<p align = "center">
-    ⭐️ From <a href="https://github.com/marouaneXan/">Marouane Zahaoui</a>
-</p>
+❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Aman_Ansari-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/amanatg0/)](https://t.me/amanatg0)
+
+❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
+
+❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
+and be a part of my journey... and See if I can make it or not!
+
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+
+<hr/>
+
+⭐️ From [aman-atg](https://github.com/aman-atg)
