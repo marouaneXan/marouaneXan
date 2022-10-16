@@ -70,7 +70,7 @@ or [![Gmail Badge](https://img.shields.io/badge/marouanezahaoui835@gmail.com@gma
 ❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/marouaneXan?label=Follow&style=social)](https://github.com/marouaneXan/?tab=follow) 
 and be a part of my journey... and See if I can make it or not!
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/marouane-zahaoui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marouane-zahaoui/)](https://www.linkedin.com/in/marouane-zahaoui/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/marouane_zahaoui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marouane-zahaoui/)](https://www.linkedin.com/in/marouane-zahaoui/)
 
 <hr/>
 
