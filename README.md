@@ -28,14 +28,12 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
-- 🌱 I’m currently learning React-Native and Animation
-- 🤔 I’m looking for help for my future MERN projects
+- 👨🏽‍💻 I’m currently working for online bus reservation project (mern stack)
+- 🌱 I’m currently learning React and Animation
 - 💬 Ask me about anything related to JS, React.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess 🤔🤖..
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Basketball 🤔🤖..
 - 📫 How to reach me: marouanezahaoui835@gmail.com
-- 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
 
 ### 🛠️ Languages and Tools:
 
