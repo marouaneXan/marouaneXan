@@ -1,3 +1,5 @@
+### Mamba forever
+
 ### Hi there 👋, I'm [Marouane zahaoui](https://github.com/marouaneXan) 👨‍💻
 
 <br/>
@@ -32,7 +34,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 🌱 I’m currently learning React and Animation
 - 💬 Ask me about anything related to JS, React.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Basketball 🤔🤖..
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Basketball, Dropshipping(Ebay...) 🤔🤖..
 - 📫 How to reach me: marouanezahaoui835@gmail.com
 
 ### 🛠️ Languages and Tools:
