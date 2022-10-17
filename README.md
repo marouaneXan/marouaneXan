@@ -1,4 +1,4 @@
-### Mamba forever
+<h1 align="center">Mamba Forever</h1>
 
 ### Hi there 👋, I'm [Marouane zahaoui](https://github.com/marouaneXan) 👨‍💻
 
