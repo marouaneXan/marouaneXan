@@ -63,7 +63,7 @@ _Since you don't want to leave my profile just yet! Here are a few things you ca
 ❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here <a href="mailto:marouanezahaoui835@gmail.com">
 
 ❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-marouane_zahaoui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marouane-zahaoui-4a3460220//)](https://www.linkedin.com/in/marouane-zahaoui-4a3460220//)
-or [![Gmail Badge](https://img.shields.io/badge/marouanezahaoui835@gmail.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marouanezahaoui835@gmail.com)](mailto:marouanezahaoui835@gmail.com)
+or [![Gmail Badge](https://img.shields.io/badge/marouanezahaoui835@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marouanezahaoui835@gmail.com)](mailto:marouanezahaoui835@gmail.com)
 
 ❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/marouaneXan?label=Follow&style=social)](https://github.com/marouaneXan/?tab=follow) 
 and be a part of my journey... and See if I can make it or not!
