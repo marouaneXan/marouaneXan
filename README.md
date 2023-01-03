@@ -30,7 +30,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working for Graphql Docker...
+- 👨🏽‍💻 I’m currently working for ATM management system project...
 - 🌱 I’m currently learning React and Animation
 - 💬 Ask me about anything related to JS, React.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
