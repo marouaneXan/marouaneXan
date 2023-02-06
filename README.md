@@ -33,7 +33,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 👨🏽‍💻 I’m currently working for ATM management system project...
 - 🌱 I’m currently learning React native
 - 💬 Ask me about anything related to JS, React.(After googling it 😜😌)
-- ⚡️ Fun-Fact: I sleep at 6am 🙃
+- ⚡️ Fun-Fact: I sleep at 9am 🙃
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Basketball, Dropshipping(Ebay...) 🤔🤖..
 - 📫 How to reach me: marouanezahaoui835@gmail.com
 
