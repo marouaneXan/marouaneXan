@@ -30,8 +30,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working for E-scooter mobile App...
-- 🌱 I’m currently learning React native
+- 👨🏽‍💻 I’m currently building new projects with angular...
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about anything related to JS, React.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 9am 🙃
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Basketball, Dropshipping(Ebay...) 🤔🤖..
