@@ -17,9 +17,9 @@
 <br/>
 
 <p>
-A Full Stack JavaScript Developer 🚀 from Morroco. I consider myself as a skilled JS Developer with good debugging skills.
+A Software Developer 🚀 from Morroco. I consider myself as a skilled JS Developer with good debugging skills.
 <br/>
-Stacks I have worked with : MERN STACK , React , Next+React.
+Stacks I have worked with : Finacial bank projects with Angular.
 <br/>  
 Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
 <br/>
@@ -30,7 +30,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently building new projects with angular...
+- 👨🏽‍💻 I’m currently building new projects with Angular...
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about anything related to JS, React.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 9am 🙃
