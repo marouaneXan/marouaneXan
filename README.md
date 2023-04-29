@@ -19,7 +19,7 @@
 <p>
 A Software Developer 🚀 from Morroco. I consider myself as a skilled JS Developer with good debugging skills.
 <br/>
-Stacks I have worked with : Finacial bank projects with Angular.
+Stacks I have worked with: Financial bank projects using Angular.
 <br/>  
 Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
 <br/>
